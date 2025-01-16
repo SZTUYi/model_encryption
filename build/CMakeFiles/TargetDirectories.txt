@@ -1,0 +1,3 @@
+/workspace/model_encryption/build/CMakeFiles/rebuild_cache.dir
+/workspace/model_encryption/build/CMakeFiles/EncryptEngine.dir
+/workspace/model_encryption/build/CMakeFiles/edit_cache.dir
